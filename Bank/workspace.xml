@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="67e02765-b950-404b-8488-cdb7b1e779dd" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2jd8d1Fk2HWDTXwTzTVO3jH4SKx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.BalanceEnquiry.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BalanceEnquriy.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Deposit.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SmartHomeSystem.executor&quot;: &quot;Run&quot;,
+    &quot;Application.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="project" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="project" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="67e02765-b950-404b-8488-cdb7b1e779dd" name="Changes" comment="" />
+      <created>1721705678612</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1721705678612</updated>
+    </task>
+    <servers />
+  </component>
+</project>
